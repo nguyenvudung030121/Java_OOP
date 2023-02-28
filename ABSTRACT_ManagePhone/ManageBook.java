@@ -49,6 +49,12 @@ public class ManageBook {
 
                 }
                 case 3: {
+                    System.out.print("Name: ");
+                    String name = sc.next();
+                    System.out.print("Phone: ");
+                    String phone = sc.next();
+                    
+                    
                     break;
 
                 }
